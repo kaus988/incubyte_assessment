@@ -1,7 +1,7 @@
 # incubyte_assessment
 
 ## Overview:
-This repository made to demonstrate implementation of given [assessment](https://github.com/kaus988/incubyte_assessment/blob/main/About%20Incubyte_Campus%20Placements.pdf).Also, a dummy database has been created to demonstarte a simple data flow in different formats from server to the local system, using country-based row filteration. For demonstrating working of data pipeline different tools are used which are listed below.
+This repository made to demonstrate implementation of given [assessment](https://github.com/kaus988/incubyte_assessment/blob/main/Data%20Engineer%20Assignment%20-%20C-DAC.pdf).Also, a dummy database has been created to demonstarte a simple data flow in different formats from server to the local system, using country-based row filteration. For demonstrating working of data pipeline different tools are used which are listed below.
 **Concepts:**
 - Data processing
 - ETL
@@ -30,11 +30,11 @@ pip install mysql.connector
 ```
 pip install pandas
 ```
-## 🔹References:
+## References:
 - [MySQL Connector Python](https://dev.mysql.com/doc/connector-python/en/connector-python-introduction.html)
 - [Pandas docs](https://pandas.pydata.org/docs/)
 
-##Screenshots:
+## Screenshots:
 
 #### Mysql_Workbench_console:
 ![alt tag](https://github.com/kaus988/incubyte_assessment/blob/main/Screenshots/Mysql_Workbench_Screenshot%202021-10-16%20163902.png)
