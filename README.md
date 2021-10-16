@@ -20,6 +20,7 @@ This repository made to demonstrate implementation of given [assessment](https:/
 - The retrieved data is fitted into pandas dataframe for further table manipulation.
 - ```get_data()``` & ```store_file()``` functions are called to fetch the desired data rows and generating ```.csv``` and ```string``` file formats to specified path, accepting country names as parameters for filtering rows. 
 - For example: ```store_file("IND")``` generates [```IND.csv```](https://github.com/kaus988/incubyte_assessment/blob/main/outputs/IND.csv) to the specified local path. [click here](https://github.com/kaus988/incubyte_assessment/tree/main/outputs) to see sample output files.
+- git push and commit is done by using Visual Studio Code. 
 
 Installation Guide:
 - To install ```mysql.connector```:
