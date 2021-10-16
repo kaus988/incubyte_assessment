@@ -35,7 +35,7 @@ def get_data(country):                      #Creating function for getting all r
 
 def store_file(country):                   #Store fetched records into csv file
     data = df.loc[df['Country'] == country]
-    data.to_csv('C:/Users/kaus988/downloads/' + country + ".csv")
+    data.to_csv('E:/Hospital/incubyte_assessment/outputs/' + country + ".csv")
     print("File has been created to the specified path")
 
 
