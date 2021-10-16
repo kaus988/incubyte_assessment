@@ -41,5 +41,5 @@ def store_file(country):                   #Store fetched records into csv file
 
 # calling functions
 
-get_data("IND")
-store_file("IND")
+get_data("USA")
+store_file("USA")
